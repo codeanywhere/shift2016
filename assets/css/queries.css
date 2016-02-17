@@ -26,6 +26,10 @@
 		background-size: 6%;
 		padding-left: 72px;
 	}
+	
+	#sec_1 {
+		min-height: 80vh;
+	}
 }
 
 @media screen and (max-width:1440px){
@@ -554,6 +558,10 @@
 		font-size: 1em;
 		letter-spacing: 3px;
 	}
+	
+	#sec_1 {
+		min-height: 100vh;
+	}
 }
 
 
@@ -654,6 +662,8 @@
 	.features-wrapper .col-md-4 {
 		margin-bottom: 15%;
 	}
+	
+	
 }
 
 @media screen and (max-width:320px) {
@@ -668,5 +678,7 @@
 		padding-left:0px;
 		padding: 25px 0 0 0;
 	}
+	
+	
 
 }
