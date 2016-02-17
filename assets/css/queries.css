@@ -82,15 +82,15 @@
 }
 	
 	.arrow-btn {
-		margin: 50px auto 0 auto;
+		margin: 30px auto 0 auto;
 	}
 
 	.landing-text-pos h1{
-		font-size:3em;
+		font-size:2em;
 	}
 
 	.landing-text-pos h2{
-		font-size:1.5em;
+		font-size:1.2em;
 	}
 
 	.block-hover {
@@ -352,9 +352,9 @@
 		-o-transform: none;
 		-webkit-transform: none;
 		transform: none;
-		-moz-box-shadow: 0 -1px 0 0 #1BCE7C;
-		-webkit-box-shadow: 0 -1px 0 0 #1BCE7C;
-		box-shadow: 0 -1px 0 0 #1BCE7C
+		-moz-box-shadow: 0 -1px 0 0 #C86EEA;
+		-webkit-box-shadow: 0 -1px 0 0 #C86EEA;
+		box-shadow: 0 -1px 0 0 #C86EEA
 	}
 
 	.box-hover {
@@ -399,7 +399,7 @@
 		width: 160px;
 	}
 	.arrow-btn {
-		margin: 170px auto 0 auto;
+		margin: 30px auto 0 auto;
 		display: block;
 		width: 100px;
 		height: 100px;
@@ -495,7 +495,7 @@
 		margin: 1.7em auto 0;
 	}
 	.arrow-btn {
-		margin: 110px auto 0 auto;
+		margin: 30px auto 0 auto;
 		width: 100px;
 		height: 100px;
 	}
@@ -569,7 +569,7 @@
 		font-size: 1.5em;
 	}
 	.arrow-btn {
-		margin: 70px auto 0 auto;
+		margin: 30px auto 0 auto;
 	}
 	
 	h1.arrow{
