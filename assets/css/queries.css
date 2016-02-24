@@ -260,6 +260,11 @@
 	.iphone,.fluid-white {
 		display:none;
 	}
+	
+	
+	.content section {
+		display: block;
+	}
 }
 
 @media screen and (max-width: 800px) {
@@ -507,6 +512,11 @@
 		padding-left:40px;
 		padding-right:40px;
 	}
+	
+	
+	.content section {
+		display: block;
+	}
 }
 
 @media screen and (max-width:480px){
@@ -562,11 +572,15 @@
 	#sec_1 {
 		min-height: 100vh;
 	}
+	
+	
+	.content section {
+		display: block;
+	}
 }
 
 
 @media screen and (max-width: 384px){
-
 	body {
 		font-size: 12px;
 	}
@@ -633,6 +647,10 @@
 		padding-left:20px;
 		padding-right:20px;
 	}
+	
+	.content section {
+		display: block;
+	}
 }
 @media screen and (max-width: 360px){
 	.st-panel {
@@ -663,7 +681,9 @@
 		margin-bottom: 15%;
 	}
 	
-	
+	.content section {
+		display: block;
+	}
 }
 
 @media screen and (max-width:320px) {
@@ -679,6 +699,12 @@
 		padding: 25px 0 0 0;
 	}
 	
+	.landing-text-pos {
+		top: 20%;
+	}
 	
+	.content section {
+		display: block;
+	}
 
 }

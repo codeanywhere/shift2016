@@ -36,7 +36,7 @@ jQuery(window).load(function() {
 /* Ready Function */
 /**************************************/
 	
-jQuery( document ).ready(function( $ ) {
+(function($) {
 	$.noConflict();
 	
 	/*** Auto height function ***/
@@ -288,7 +288,10 @@ jQuery( document ).ready(function( $ ) {
 	$('input[type=text], textarea').placeholder();	
 		
 		
-});
+})($);
+
+
+
 /***************************************/
 /*only play video on desktop devices  */
 /**************************************/
@@ -315,7 +318,7 @@ jQuery( document ).ready(function( $ ) {
 
 var trueMobile = isMobile.any()
 if (trueMobile){
-	    $('#video').css('display','none');	
+	    jQuery('#video').css('display','none');	
 		
 }
 
