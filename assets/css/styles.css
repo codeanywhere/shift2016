@@ -1045,6 +1045,49 @@ div.avatar {
 	margin: 0 auto;
 }
 
+
+/* SPEAKERS */
+.speakers-avatar1 {
+	background-image: url('../img/speakers/justinkan.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar2 {
+	background-image: url('../img/speakers/patrick-1.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar3 {
+	background-image: url('../img/speakers/evanclaiton-1.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+/* /SPEAKERS */
+
 .folio {
 	max-width: 500px;
 	height: auto;
@@ -2068,6 +2111,36 @@ ul.planContainer {
 	background: #7f3f98;
 	color: #fff;
 }
+
+/*************************/
+/** Quote **/
+/*************************/
+.quote-wrap {
+	background: #191919;
+}
+
+.quote {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	justify-content: center;
+	background: inherit;
+}
+
+.quote .folio {
+	max-width: 80%;
+	-webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1; 
+	flex: 1;
+	background: inherit;
+}
+
+
+
+
+
 
 /*************************/
 /** Subscribe **/
