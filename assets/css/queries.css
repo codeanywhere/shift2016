@@ -255,7 +255,7 @@
 		background:#f3f5f8;
 		height:540px;
 	}
-
+	
 
 	.legals {
 		text-align:center;
@@ -278,6 +278,10 @@
 
 	#example-navbar-collapse{
 		float:none;
+	}
+	
+	.sponsor-wrap > .container {
+		flex-flow: column wrap;
 	}
 
 	.header.header-hide {
@@ -542,6 +546,10 @@
 		padding:0;
 	}
 
+	.sponsor-wrap img {
+		height: 80px;
+	}
+
 	.iphone,.fluid-white {
 		display:none;
 	}
@@ -603,6 +611,10 @@
 	}
 	.arrow-btn {
 		margin: 30px auto 0 auto;
+	}
+	
+	.sponsor-wrap img {
+		height: 60px;
 	}
 
 	h1.arrow{

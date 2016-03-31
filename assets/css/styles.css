@@ -2031,7 +2031,18 @@ ul.slides li {
 /** Sponsor **/
 /*****************************/
 #sponsers {
-	display: none;
+	
+}
+
+.sponsor-wrap > .container {
+	display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex; 
+	justify-content: space-between;
+}
+.sponsor-wrap img {
+	height: 100px;
 }
 
 .ignite-cta {
