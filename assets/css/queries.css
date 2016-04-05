@@ -81,6 +81,12 @@
 		font-size: 14px;
 	}
 
+	
+	.sponsor-wrap > .container {
+		flex-flow: column wrap;
+	}
+	
+	
 	.landing-text-pos {
 		top: 25%;
 	}
@@ -278,10 +284,6 @@
 
 	#example-navbar-collapse{
 		float:none;
-	}
-	
-	.sponsor-wrap > .container {
-		flex-flow: column wrap;
 	}
 
 	.header.header-hide {
