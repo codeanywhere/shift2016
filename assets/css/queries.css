@@ -85,6 +85,9 @@
 	.sponsor-wrap > .container {
 		flex-flow: column wrap;
 	}
+	.sponsor-wrap > .container div {
+		margin: 10px auto;
+	}
 	
 	
 	.landing-text-pos {

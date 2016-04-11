@@ -2039,8 +2039,14 @@ ul.slides li {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex; 
-	justify-content: space-between;
+	justify-content: center;
+	flex-flow: row wrap;
+	align-items: center;
 }
+.sponsor-wrap > .container div {
+	margin: 0 30px;
+}
+
 .sponsor-wrap img {
 	height: 100px;
 }
