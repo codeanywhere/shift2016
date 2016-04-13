@@ -837,7 +837,7 @@ figure.vimeo-video{
 /** Team **/
 /*******************************/
 #team {
-	display: none;
+	//display: none;
 }
 
 .md-close{
@@ -846,7 +846,8 @@ figure.vimeo-video{
 	top: 10px;
 }
 .team {
-	background-color: #000000;
+	//background-color: #000000;
+	background-color: #191919;
 }
 
 .speakers-wrap {
@@ -1086,6 +1087,72 @@ div.avatar {
 	border-radius: 50%;
 	margin: 0 auto;
 }
+.speakers-avatar4 {
+	background-image: url('../img/speakers/rollins.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar5 {
+	background-image: url('../img/speakers/cuellar.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar6 {
+	background-image: url('../img/speakers/curran.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar7 {
+	background-image: url('../img/speakers/lieberman.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar8 {
+	background-image: url('../img/speakers/nemytchenko.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
 /* /SPEAKERS */
 
 .folio {
@@ -2034,6 +2101,15 @@ ul.slides li {
 	
 }
 
+.slides {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
+.slides div h2 {
+	margin-bottom: 40px;
+}
+
 .sponsor-wrap > .container {
 	display: -webkit-box;
   display: -ms-flexbox;
@@ -2153,6 +2229,9 @@ ul.planContainer {
 	background: inherit;
 }
 
+.quote.sponsors {
+	flex-flow: row wrap;
+}
 
 
 
