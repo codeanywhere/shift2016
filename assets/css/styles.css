@@ -2138,7 +2138,7 @@ ul.slides li {
   display: -webkit-flex;
   display: flex; 
 	justify-content: center;
-	flex-flow: row nowrap;
+	flex-flow: row wrap;
 	align-items: center;
 }
 .sponsor-wrap > .container div {
