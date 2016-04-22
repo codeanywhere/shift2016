@@ -89,6 +89,14 @@
 		margin: 10px auto;
 	}
 	
+	.sponsor-row-wrap .container {
+		flex-flow: column wrap;
+	}
+	.sponsor-row-wrap .sponsor-wrap .sponsor-content {
+		flex-flow: column wrap;
+		margin: 10px auto;
+	}
+	
 	
 	.landing-text-pos {
 		top: 25%;

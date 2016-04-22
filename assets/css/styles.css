@@ -2140,13 +2140,61 @@ ul.slides li {
 	justify-content: center;
 	flex-flow: row wrap;
 	align-items: center;
+	margin-bottom: 40px;
 }
+
+.sponsor-row-wrap .container {
+	display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex; 
+	justify-content: space-between;
+	flex-flow: row wrap;
+	align-items: center;
+}
+
+.sponsor-row-wrap .sponsor-wrap {
+	width: 400px;
+}
+
+.sponsor-row-wrap .sponsor-wrap .sponsor-content {
+	display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex; 
+	justify-content: center;
+	flex-flow: row wrap;
+	align-items: center;
+}
+
+
+
+
+
+.sponsor-row-wrap .sponsor-wrap .sponsor-content div,
 .sponsor-wrap > .container div {
 	margin: 0 20px;
 }
-.sponsor-wrap img {
+.sponsor-wrap.lvl1 img {
+	height: 150px;
+}
+.sponsor-wrap.lvl2 img {
+	height: 100px;
+}
+.sponsor-wrap.lvl3 img {
 	height: 80px;
 }
+.sponsor-wrap.lvl4 img {
+	height: 70px;
+}
+.sponsor-wrap.lvl5 img {
+	height: 70px;
+}
+.sponsor-wrap.lvl6 img {
+	height: 50px;
+}
+
+
 
 .ignite-cta {
 	background-color: #fff;
