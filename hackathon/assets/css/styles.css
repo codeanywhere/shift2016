@@ -19,9 +19,14 @@
 /** MOJE MASLO **/
 /****************************/	
 
-#theme {
-	background: #fff;
-	background-color: #fff;
+#hackathon {
+	background: #191919;
+	background-color: #191919;
+}
+
+#prizes {
+	background: #191919;
+	background-color: #191919;
 }
 
 #speakers p {
@@ -37,7 +42,24 @@
 }
 
 
+.prize-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-flow: row wrap;
+}
+.prize-col {
+	text-align: center;
+}
+.prize-col h2 {
+	font-weight: bold;
+	font-size: 30px;
+	color: #7d3d96;
+}
 
+.prize-icon {
+	width: 100px;
+}
 
 
 
@@ -344,7 +366,7 @@ hr {
 #sec_1 {
 
 	//background: url('../img/backgrounds/bg1.jpg') no-repeat center center;
-	background: url('../img/backgrounds/main-img.jpg') no-repeat center center;
+	background: url('../img/backgrounds/main-img2.jpg') no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -718,7 +740,8 @@ body{
 /*****************************/
 
 .intro {
-	background: #f3f5f8;
+	//background: #f3f5f8;
+	background: #fff;
 }
 
 .about p{
