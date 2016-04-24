@@ -47,14 +47,21 @@
 	justify-content: space-between;
 	align-items: center;
 	flex-flow: row wrap;
+	text-align: center;
 }
+.prize-row p {
+	text-align: center;
+	margin: 0 auto;
+}
+
 .prize-col {
 	text-align: center;
 }
 .prize-col h2 {
 	font-weight: bold;
 	font-size: 30px;
-	color: #7d3d96;
+	//color: #7d3d96;
+	color: #fff;
 }
 
 .prize-icon {
