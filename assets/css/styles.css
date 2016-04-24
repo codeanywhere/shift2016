@@ -312,7 +312,6 @@ hr {
 /****************************/
 
 #sec_1 {
-
 	//background: url('../img/backgrounds/bg1.jpg') no-repeat center center;
 	background: url('../img/backgrounds/main-img.jpg') no-repeat center center;
 	-webkit-background-size: cover;
@@ -322,6 +321,7 @@ hr {
 	position: relative;
 	overflow: hidden;
 }
+
 
 .home-bg {
 	animation: none;

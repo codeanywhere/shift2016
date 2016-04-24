@@ -41,6 +41,10 @@
 	color: #7e3e97;
 }
 
+h2.prizes-h2 {
+	font-size: 24px;
+	margin-top: 60px;
+}
 
 .prize-row {
 	display: flex;
@@ -49,13 +53,11 @@
 	flex-flow: row wrap;
 	text-align: center;
 }
-.prize-row p {
-	text-align: center;
-	margin: 0 auto;
-}
+
 
 .prize-col {
 	text-align: center;
+	flex-basis: 200px;
 }
 .prize-col h2 {
 	font-weight: bold;
@@ -63,12 +65,24 @@
 	//color: #7d3d96;
 	color: #fff;
 }
+.prize-col p {
+	font-size: 18px;
+}
 
 .prize-icon {
-	width: 100px;
+	width: 80px;
 }
 
 
+
+.landing-text-pos p.sec1-p {
+	font-size: 18px;
+	text-transform: none;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	margin: 30px auto;
+	padding: 0 20%;
+}
 
 
 
@@ -1373,6 +1387,7 @@ div.avatar {
 
 #responsive {
 	background-color: #ffffff;
+	display: none;
 }
 
 /********************************/
