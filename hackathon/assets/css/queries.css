@@ -74,6 +74,12 @@
 		text-align: center;
 		float: none;
 	}
+	
+	.navbar.navbar-default {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
 }
 @media screen and (max-width:1024px){
 
@@ -412,6 +418,16 @@
 }
 
 @media screen and (max-width:767px){
+	
+	.prize-row {
+		flex-flow: column wrap;
+	}
+	.prize-col.empty {
+		display: none;
+	}
+	
+	
+	
 	body {
 		font-size: 12.5px;
 	}

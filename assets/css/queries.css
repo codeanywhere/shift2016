@@ -63,6 +63,12 @@
 	padding: 10px 72px;
 }
 	*/
+	
+	.navbar-default .navbar-nav > li > a {
+		padding-left: 9px;
+		padding-right: 9px;
+		font-size: 0.9em;
+	}
 }
 
 @media screen and (max-width:1180px){
@@ -74,6 +80,8 @@
 		text-align: center;
 		float: none;
 	}
+	
+	
 }
 @media screen and (max-width:1024px){
 
@@ -202,7 +210,7 @@
 
 @media screen and (max-width: 992px) {
 
-
+	/* NAVBAR */
 	.navbar-fixed-top .navbar-collapse,
 	.navbar-static-top .navbar-collapse,
 	.navbar-fixed-bottom .navbar-collapse {
