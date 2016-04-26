@@ -2487,6 +2487,12 @@ ul.planContainer {
 /********************************/
 /** Contact **/
 /********************************/
+#contact .ca-logo {
+	width: 300px;
+	margin: 30px auto;
+}
+
+
 
 #contact p {
 	color: #ffffff;
