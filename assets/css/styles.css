@@ -1162,6 +1162,72 @@ div.avatar {
 	border-radius: 50%;
 	margin: 0 auto;
 }
+.speakers-avatar9 {
+	background-image: url('../img/speakers/hamid.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar10 {
+	background-image: url('../img/speakers/ksajadi.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar11 {
+	background-image: url('../img/speakers/kennan.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar12 {
+	background-image: url('../img/speakers/mat.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.speakers-avatar13 {
+	background-image: url('../img/speakers/cyrille.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
 
 /* /SPEAKERS */
 
