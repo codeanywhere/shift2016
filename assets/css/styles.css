@@ -109,6 +109,16 @@ p {
 	line-height: 1.6em;
 }
 
+.link-purple,
+.link-purple:link,
+.link-purple:active,
+.link-purple:visited {
+	color: #7E3E97;
+}
+.link-purple:hover {
+	color: #000;
+}
+
 .bottom-spacing{
 	margin-bottom:2.5%;
 }
