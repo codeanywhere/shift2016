@@ -1399,16 +1399,20 @@ div.avatar {
 	text-transform: none;
 	font-weight: 500;
 	margin-right: 5px;
-
 }
 
-.speaker-designaition{
+.speaker-designaition {
 	cursor: pointer;
 	font-weight: 300;
 	letter-spacing: 0.1em;
 	text-align: left;
 	text-transform: none;
 }
+.speaker-designaition span {
+	font-weight: 500;
+}
+
+
 .a-name {
 	color: #000;
 	text-transform: uppercase;
