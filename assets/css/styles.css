@@ -2555,14 +2555,31 @@ ul.planContainer {
 }
 
 .error #message{
-
 	color: #EC7406;
 	font-size: 1.1em;
 	margin-top: 10px;
 	text-transform:capitalize;
-
-
 }
+
+
+/**************************/
+/** GetByBus **/
+/**************************/
+#getbybus {
+	background: #fff;
+	margin-bottom: 100px;
+}
+#getbybus p {
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
 
 /********************************/
 /** Contact **/
