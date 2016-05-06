@@ -2563,14 +2563,33 @@ ul.planContainer {
 
 
 /**************************/
-/** GetByBus **/
+/** HOW TO GET HERE **/
 /**************************/
-#getbybus {
+#htgh {
 	background: #fff;
-	margin-bottom: 100px;
 }
-#getbybus p {
-	font-size: 20px;
+#htgh h1 {
+	color: #7E3E97;
+	font-size: 2.5em;
+	font-weight: 700;
+	letter-spacing: 0.3em;
+	text-transform: uppercase;
+}
+.htgh-wrap {
+	display: flex;
+	position: relative;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row nowrap;
+}
+.htgh-wrap .left,
+.htgh-wrap .right {
+	width: 50%;
+}
+
+
+.htgh-box {
+	margin: 30px auto;
 }
 
 
