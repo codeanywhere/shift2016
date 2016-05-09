@@ -1395,7 +1395,7 @@ div.avatar {
 
 .name {
 	text-transform: none;
-	font-weight: 500;
+	font-weight: 300;
 	margin-right: 5px;
 
 }
@@ -1407,6 +1407,11 @@ div.avatar {
 	text-align: left;
 	text-transform: none;
 }
+.speaker-designaition span {
+	font-weight: 500;
+}
+
+
 .a-name {
 	color: #000;
 	text-transform: uppercase;
