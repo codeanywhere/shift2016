@@ -16,6 +16,84 @@
 */
 
 /****************************/
+/** MOJI HAHOVI **/
+/****************************/	
+
+.event-segments .event-wrap {
+	display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex; 
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: flex-start;
+	margin-top: 20px;
+}
+
+.event-segments .event-wrap .event-box {
+	display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+	flex-flow: column nowrap;
+	flex: 1 1 200px;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 10px 20px;
+}
+
+.event-segments .event-wrap .event-box span {
+	color: #7F3F98;
+	font-size: 16px;
+	border-bottom: 3px solid #fff;
+	margin-bottom: 10px;
+}
+
+.event-segments .event-wrap .event-box span.biz {
+	border-bottom: 3px solid #E0B4F1;
+}
+
+.event-segments .event-wrap .event-box span.design {
+	border-bottom: 3px solid #CE7EEC;
+}
+
+.event-segments .event-wrap .event-box span.dev {
+	border-bottom: 3px solid #B900FF;
+}
+
+
+/* 
+.event-segments .event-wrap .event-box span {
+	color: #7F3F98;
+	background: #DEDEDE;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+.event-segments .event-wrap .event-box span.biz {
+	background: red;
+	border: 1px solid #ccc;
+}
+
+.event-segments .event-wrap .event-box span.design {
+	background: blue;
+	border: 1px solid #ccc;
+}
+
+.event-segments .event-wrap .event-box span.dev {
+	background: green;
+	border: 1px solid #ccc;
+}
+
+ */
+
+
+
+
+
+
+
+/****************************/
 /** Reset **/
 /****************************/	
 
