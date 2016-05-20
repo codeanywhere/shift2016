@@ -86,6 +86,246 @@ h2.prizes-h2 {
 
 
 
+/****************************/
+/** JUDGES **/
+/****************************/	
+
+
+#judges .row.speakers {
+	margin: 50px auto;
+}
+
+.judges-avatar1 {
+	background-image: url('../img/judges/lukaabrus.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar2 {
+	background-image: url('../img/judges/edward.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar3 {
+	background-image: url('../img/judges/miodrag.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar4 {
+	background-image: url('../img/judges/cyrille.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar5 {
+	background-image: url('../img/judges/borisguima.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar6 {
+	background-image: url('../img/judges/derekkleinow.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar7 {
+	background-image: url('../img/judges/predraglesic.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar8 {
+	background-image: url('../img/judges/lieberman.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar9 {
+	background-image: url('../img/judges/hamid.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar10 {
+	background-image: url('../img/judges/mikereiner.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar11 {
+	background-image: url('../img/judges/rollins.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar12 {
+	background-image: url('../img/judges/vlatkasipos.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar13 {
+	background-image: url('../img/judges/stanislavsirakov.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar14 {
+	background-image: url('../img/judges/andrija.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar15 {
+	background-image: url('../img/judges/brianwhite.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.judges-avatar16 {
+	background-image: url('../img/judges/.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
 
 /****************************/
 /** Reset **/
