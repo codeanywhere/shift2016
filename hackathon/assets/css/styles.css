@@ -323,6 +323,20 @@ h2.prizes-h2 {
 	margin: 0 auto;
 }
 
+.speakers-avatar9 {
+	background-image: url('../img/speakers/hamid.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #ffffff;
+	background-size: 100px;
+	width: 100px;
+	height: 100px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
 
 
 
