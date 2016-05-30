@@ -61,6 +61,16 @@
 	border-bottom: 3px solid #B900FF;
 }
 
+span.biz {
+	color: #E0B4F1;
+}
+span.design {
+	color: #CE7EEC;
+}
+span.dev {
+	color: #B900FF;
+}
+
 
 /* 
 .event-segments .event-wrap .event-box span {
