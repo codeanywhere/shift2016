@@ -522,6 +522,13 @@
 
 }
 @media screen and (max-width:585px){
+	#livestream iframe {
+		width: 100%;
+		height: 300px;
+	}
+	
+	
+	
 	.md-content{
 		height: 360px;
 	}
@@ -698,6 +705,10 @@
 	}
 }
 @media screen and (max-width: 360px){
+	#livestream iframe {
+		height: 200px;
+	}
+	
 	.st-panel {
 		background:#fff;
 		overflow:scroll;
