@@ -9,6 +9,7 @@
  * @license http://opensource.org/licenses/bsd-license.php New BSD License
  * @author Paul Serby <paul.serby@clock.co.uk>
  */
+"use strict"; 
 (function ($) {
 	$.fn.placeholder = function (text) {
 
