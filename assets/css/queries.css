@@ -556,6 +556,11 @@
 }
 
 @media screen and (max-width:480px){
+	#section-1 {
+		display: none;
+	}
+	
+	
 	.wrapper {
 		background:#f3f5f8;
 		height:640px;
