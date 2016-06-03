@@ -11,6 +11,9 @@
 /*****************************************************/
 /* MY HAH */
 /*****************************************************/
+.overlay {
+	background: transparent !important;
+}
 
 .tickets {
 	background: #fff;
