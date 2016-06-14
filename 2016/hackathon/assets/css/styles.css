@@ -89,6 +89,33 @@ h2.prizes-h2 {
 }
 
 
+#rules {
+	font-size: 16px;
+}
+#rules ol {
+	text-align: left;
+}
+#rules ol li {
+	margin-bottom: 15px;
+}
+
+.rules-link {
+	color: #7e3e97;
+}
+.rules-link:hover,
+.rules-link:active {
+	color: #000;
+}
+
+#rules ol,
+.rules-section {
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+.rules-section h1 {
+	margin-top: 30px;
+}
+
 
 /****************************/
 /** JUDGES **/
@@ -591,7 +618,7 @@ animation-timing-function: linear;
 
 .preloader-logo {
 	display: block;
-	background-image: url("/hackathon/assets/img/logo/logo-loader.png");
+	background-image: url("/assets/img/logo/logo-loader.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 80px;
